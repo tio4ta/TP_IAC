@@ -1,0 +1,11 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+.override.*
+
+# Sensibles (mot de passe)
+terraform.tfvars
+*.auto.tfvars
