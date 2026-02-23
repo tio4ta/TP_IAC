@@ -6,6 +6,4 @@
 crash.log
 .override.*
 
-# Sensibles (mot de passe)
-terraform.tfvars
-*.auto.tfvars
+
